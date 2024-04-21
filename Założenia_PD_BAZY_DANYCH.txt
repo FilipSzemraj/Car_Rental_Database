@@ -1,0 +1,4 @@
+Temat: Wypożyczalnia samochodów.
+
+Założenia: Baza danych wypożyczalni będzie pozwalała na wypożyczenia samochodów klientom oraz obsługę zwrotów samochodów. Sprawdzanie stanu samochodów w firmie. 
+Zarządzanie pracownikami. Nadzorowanie historii napraw. 

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Diagram" id="EE8F42AC-9284-2DBF-0436-50EEB0F64CDD" version="3.5">
+<createdBy>Filip</createdBy>
+<createdTime>2022-11-11 20:33:49 UTC</createdTime>
+<ownerDesignName>Diagram</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>EE8F42AC-9284-2DBF-0436-50EEB0F64CDD</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="2E016B02-2D1A-3047-4A42-A702E0F6E53B">
+<designStoragePath>C:\CREATE_TABLE</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="157BB0C5-42B0-8DE6-2968-FFA2ABB7BE5A">
+<designStoragePath>C:\BAZY_DANYCH\WYPOZYCZALNIA SAMOCHODOW\przyklad</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="D8511EFA-8822-E333-D542-5B83269C301F">
+<designStoragePath>C:\CREATE_TABLE</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
